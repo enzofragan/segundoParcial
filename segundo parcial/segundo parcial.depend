@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1530191432 source:d:\fragan\segundoparcial\segundo parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530188548 d:\fragan\segundoparcial\segundo parcial\arraylist.h
+
+1530194280 source:d:\fragan\segundoparcial\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1530194189 d:\fragan\segundoparcial\segundo parcial\funciones.h
+
+1530194189 source:d:\fragan\segundoparcial\segundo parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
